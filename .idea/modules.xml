@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/exec.iml" filepath="$PROJECT_DIR$/.idea/exec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python/.idea/python.iml" filepath="$PROJECT_DIR$/../python/.idea/python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python2/.idea/python2.iml" filepath="$PROJECT_DIR$/../python2/.idea/python2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../爬虫数据/.idea/爬虫数据.iml" filepath="$PROJECT_DIR$/../爬虫数据/.idea/爬虫数据.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../进程线程协程/.idea/进程线程协程.iml" filepath="$PROJECT_DIR$/../进程线程协程/.idea/进程线程协程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../飞机大战/.idea/飞机大战.iml" filepath="$PROJECT_DIR$/../飞机大战/.idea/飞机大战.iml" />
+    </modules>
+  </component>
+</project>
